@@ -1,7 +1,7 @@
 {
   "name": "express-mustache-template",
   "version": "1.0.0",
-  "description": "Last expressjs with last mustachejs templates",
+  "description": "Express JS with Mustache JS (Javascript implementation) Template Engine setup",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,10 @@
   "keywords": [
     "express",
     "mustache",
-    "template"
+    "mustachejs",
+    "template",
+    "engine",
+    "node"
   ],
   "author": "juliomatcom",
   "license": "MIT",
